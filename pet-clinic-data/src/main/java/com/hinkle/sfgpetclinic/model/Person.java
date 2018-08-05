@@ -1,6 +1,6 @@
 package com.hinkle.sfgpetclinic.model;
 
-public class Person {
+public class Person extends BaseEntity {
 
   private String first;
   private String last;
